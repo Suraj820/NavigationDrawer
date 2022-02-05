@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">संचालन सूची</string>
+    <string name="nav_header_desc">मार्गदर्शन शीर्ष</string>
+    <string name="home">मुख्य</string>
+    <string name="settings">समायोजन</string>
+    <string name="content">विषय</string>
+    <string name="archive">पुरालेख</string>
+    <string name="recent">हालिया</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="bin">कोष्ठ</string>
+    <string name="home_fragment">मुख्य खंड</string>
+    <string name="settings_fragment">समायोजन खंड</string>
+    <string name="content_fragment">विषय खंड</string>
+    <string name="archive_fragment">पुरालेख खंड</string>
+    <string name="recent_fragment">पसंदीदा खंड</string>
+    <string name="favorites_fragment">पसंदीदा खंड</string>
+    <string name="bin_fragment">कोष्ठ खंड</string>
+    <string name="link_to_content_button">विषय बटन से लिंक करें</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">नमस्ते रिक्त खंड</string>
+</resources>
